@@ -1,15 +1,3 @@
----
-
-````markdown
----
-title: "Diabetes Prediction with XGBoost"
-emoji: "🏥"
-colorFrom: "blue"
-colorTo: "green"
-sdk: "gradio"
-app_file: "app.py"
----
-
 # 🏥 Diabetes Prediction App (XGBoost)
 
 This interactive web application predicts the likelihood of a patient having diabetes based on health indicators such as glucose levels, BMI, age, and more. Built using the Pima Indians Diabetes Database, the model employs the XGBoost algorithm for accurate and efficient predictions.
