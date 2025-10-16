@@ -1,0 +1,4 @@
+Pregnancies,Glucose,Blood Pressure,Skin Thickness,Insulin,BMI,Diabetes Pedigree Function,Age,Prediction Result,timestamp
+1,85,66,29,0,26.6,0.351,31,"🟢 **No Diabetes Detected.**
+
+Risk Probability: 1.04%",2025-10-16 23:31:32.322437
